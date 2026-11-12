@@ -2,7 +2,7 @@
 
 Exercício de preparação que fiz simulando uma apuração real de campanha de incentivo: tratamento de bases brutas e sujas, aplicação de regras de elegibilidade, cálculo de prêmio por participante e uma trilha de auditoria dos erros que encontrei e corrigi no caminho — feito em Excel (Power Query + fórmulas) e validado de forma independente em SQL.
 
-**Painel visual:** (https://apuracao-giro-certo.netlify.app/)
+**Painel visual:** [LINK_DO_NETLIFY_AQUI]
 
 ## Regulamento
 
@@ -51,7 +51,7 @@ De 192 vendas brutas, 162 ficaram válidas para a apuração.
 | Bruno Araújo | L007 | 18.365,32 | 1,5x | R$ 550,96 |
 | Patrícia Almeida | L004 | 20.693,98 | 1,2x | R$ 496,66 |
 | Lucas Ferreira | L004 | 19.318,04 | 1,2x | R$ 463,63 |
-| Camila Martins | L006 | 14.931,58 | 1,5x | R$ 447,95 |
+| Camila Martins* | L006 | 14.931,58 | 1,5x | R$ 447,95 |
 | Mariana Lima | L001 | 15.484,05 | 1,0x | R$ 309,68 |
 | Renata Dias | L008 | 14.989,23 | 1,0x | R$ 299,78 |
 | Thiago Rocha | L008 | 6.870,88 | 1,0x | R$ 137,42 |
@@ -62,6 +62,8 @@ De 192 vendas brutas, 162 ficaram válidas para a apuração.
 | Ana Costa | L002 | 13.723,16 | — | R$ 0,00 (loja não bateu o gatilho) |
 
 **Total pago: R$ 8.022,19.** Ninguém atingiu o teto de R$ 5.000 neste ciclo.
+
+\* O valor de Camila Martins já exclui a venda-outlier de R$ 15.230,00 (V0177) — decisão por julgamento, não por regra escrita do regulamento. Ver seção 1. Se essa venda for confirmada como válida pelo cliente, o prêmio dela sobe para R$ 904,85 e o total pago para R$ 8.479,09.
 
 ## 4. Reconciliação
 
