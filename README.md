@@ -2,7 +2,7 @@
 
 Exercício de preparação que fiz simulando uma apuração real de campanha de incentivo: tratamento de bases brutas e sujas, aplicação de regras de elegibilidade, cálculo de prêmio por participante e uma trilha de auditoria dos erros que encontrei e corrigi no caminho — feito em Excel (Power Query + fórmulas) e validado de forma independente em SQL.
 
-**Painel visual:** [LINK_DO_NETLIFY_AQUI]
+**Painel visual:** (https://apuracao-giro-certo.netlify.app/)
 
 ## Regulamento
 
