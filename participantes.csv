@@ -1,0 +1,17 @@
+id_participante,nome,id_loja,status
+P001,Carlos Souza,L001,ativo
+P002,Mariana Lima,L001,ativo
+P003,João Pereira,L002,inativo
+P004,Ana Costa,L002,ativo
+P005,Roberto Oliveira,L003,ativo
+P006,Fernanda Santos,L003,ativo
+P007,Lucas Ferreira,L004,ativo
+P008,Patrícia Almeida,L004,ativo
+P009,Diego Ribeiro,L005,ativo
+P010,Juliana Carvalho,L005,ativo
+P011,Marcelo Gomes,L006,inativo
+P012,Camila Martins,L006,ativo
+P013,Bruno Araújo,L007,ativo
+P014,Larissa Barbosa,L007,ativo
+P015,Thiago Rocha,L008,ativo
+P016,Renata Dias,L008,ativo
